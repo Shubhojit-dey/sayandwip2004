@@ -24,7 +24,8 @@
 
 ###
 
-### 🐍 GitHub Contribution Snake  
+### 📊 GitHub Stats  
+
 <div align="center">
-  <img src="https://github.com/sayandwip2004/sayandwip2004/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+ </div>
