@@ -30,3 +30,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
  </div>
+
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/shibammitra24/shibammitra24/output/snake.svg" alt="Snake animation" />
